@@ -1,8 +1,8 @@
-# Smart Distributed Traffic Management System
+# Simulator of Distributed Traffic Light Control Using Vehicle-to-Infrastructure (V2I) IoT Mesh
 
 ![Smart Traffic Intersection Isometric View](https://img.freepik.com/free-vector/city-intersection-traffic-navigation-isometric-view_1284-17737.jpg?w=2000)
 
-**A decentralized, AI-driven traffic control system using Computer Vision and Mesh Networking.**
+**Simulator of a decentralized, AI-driven traffic control system using Computer Vision and Mesh Networking.**
 
 This project implements a distributed traffic system where 4 separate camera nodes monitor a single intersection. Instead of a central server, the nodes communicate via a **Token Ring (Round Robin)** protocol to pass the "Green Light" authority efficiently in a cycle: **North → East → South → West**.
 
